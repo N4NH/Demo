@@ -12,8 +12,7 @@ public class EngineFireToggle : MonoBehaviour
 
     void Update()
     {
-        bool isMoving = Input.GetMouseButton(0); // giữ chuột trái mới bay
         if (engineFire != null)
-            engineFire.SetActive(isMoving);
+            engineFire.SetActive(true);
     }
 }

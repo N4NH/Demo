@@ -16,8 +16,7 @@ public class PlayerMouseMove : MonoBehaviour
 
     void Update()
     {
-        if (!Input.GetMouseButton(0))
-            return;
+
 
         Vector3 mousePos = Input.mousePosition;
         float zDist = Mathf.Abs(transform.position.z - mainCamera.transform.position.z);
