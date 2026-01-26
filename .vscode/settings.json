@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Demo.sln"
+    "dotnet.defaultSolution": "Demo.sln",
+    "cSpell.enabled": false
 }
