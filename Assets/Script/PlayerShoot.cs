@@ -5,7 +5,7 @@ public class PlayerShoot : MonoBehaviour
     public GameObject bulletPrefab;
     public Transform firePoint;
 
-    public float fireRate = 12f; // viên / giây
+    public float fireRate = 12f;
     private float _nextFire;
 
     void Update()
