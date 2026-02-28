@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 7f5e6c2fae6553246babed42da885e7b
+  productGUID: aa4e5c32ccd0de54aa5e1a49eb476c8e
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Demo
+  productName: Maybay
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -760,14 +760,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Demo
+  metroPackageName: Maybay
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Demo
+  metroApplicationDescription: Maybay
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -839,11 +839,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: b4103993-5efd-48ce-9ad4-ede870a39b2e
+  cloudProjectId: 2c12324e-4e31-469b-bd2d-a730043155b4
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Demo
-  organizationId: nanhnotfound
+  projectName: Maybay
+  organizationId: dcskc2
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
   hmiLoadingImage: {fileID: 0}
