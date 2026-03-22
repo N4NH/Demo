@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3972866549180507866
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 787980149003489851}
+  - component: {fileID: 7189993681945386748}
+  m_Layer: 0
+  m_Name: FlyPath_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &787980149003489851
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3972866549180507866}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7189993681945386748
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3972866549180507866}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9c49a251e4569644b45f7ac7644b065, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  waypoints:
+  - {fileID: 5300496864049757519, guid: 269242662cc53e241abfeef62993a6c7, type: 3}
+  - {fileID: 1071798024635856090, guid: c3185c69af35e4443aebf0d06cba31f2, type: 3}
+  - {fileID: 3620198616727740265, guid: 7b8a43e054d7eb04bbc696af919ddeba, type: 3}
+  - {fileID: 1610737993112848896, guid: 605bfc7cbe449fb4cb263ac287622c58, type: 3}
+  - {fileID: 4662922416966887741, guid: cff22586642e4584f880cf2065030f6e, type: 3}
+  - {fileID: 7283725231315117283, guid: e5bdebb3179fcab4099495f086369e32, type: 3}
